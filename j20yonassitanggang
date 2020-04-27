@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>J 20 Photogrphy|Studio</title>
+   <link rel="stylesheet" type="text/css" href="stylesheet.css">
+   
+</head>
+<body>
+  <header>
+    <img src="logo (3).png">
+    <div class="container">
+      <div class="header-left">
+        <h1>STUDIO</h1>
+      </div>
+      <div class="header-right">
+          <a href="#">Shop</a>
+          <a href="#">Contact</a>
+          <a href="#">Home</a>
+          <a href="#">Galery</a>
+      </div>
+    </div>
+  </header>
+<main>
+  <div class="container">
+    <h1>WELCOME TO</h1>
+    <img src="logo (1).png">
+    <h2>STUDIO</h2>
+    <p>let's save your moment here</p>
+  </div>
+</main>
+<section>
+  <div class="extra1">
+    <div class="SERVICE">
+      <h1>OUR SERVICE</h1>
+    </div>
+    <div class="container">
+        <div class="box">
+        <a href="#"><img src="print.png">
+        </a>
+        <h3>PRINT</h3>
+        <p>print and display to cherish your precius memories
+        </p>
+      </div>
+      <div class="box">
+        <a href="#"><img src="frame.png">
+        </a>
+        <h3>FRAME</h3>
+        <p>chose your own frame style
+        </p>
+      </div>
+      <div class="box">
+        <a href="#"><img src="mix.png">
+        </a>
+        <h3>PHOTOMIX</h3>
+        <p>print and display to cherish your precius memories
+        </p>
+      </div>
+      <div class="box">
+        <a href="#"><img src="art.png">
+        </a>
+        <h3>ART PRINT</h3>
+        <p>print and display to cherish your precius memories
+        </p>
+      </div>
+      <div class="box">
+        <a href="#"><img src="1.jpg">
+        </a>
+        <h3>PREWEDDING INDOOR</h3>
+      </div>
+      <div class="box">
+        <a href="#"><img src="2.jpg">
+        </a>
+        <h3>PREWEDDING OUTDOOR</h3>
+      </div>
+      <div class="box">
+        <a href="#"><img src="3.jpg">
+        </a>
+        <h3>FAMILY</h3>
+      </div>
+      <div class="box">
+        <a href="#"><img src="4.png">
+        </a>
+        <h3>WEDDING</h3>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <!-- ini untuk ekstra 2 -->
+  <div class="extra2">
+
+  </div>
+</section>
+</body>
+<footer>
+  <div class="footer">
+    <p> J 20 Photography | Studio</p>
+    <p>copyright @ 2020</p>
+  </div>
+</footer>
+
+</html>
